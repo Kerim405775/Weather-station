@@ -1,5 +1,5 @@
 # Weather-station
-##Stacja mierząca wilgotność i temperaturę
+## Stacja mierząca wilgotność i temperaturę
 
 Celem projektu było stworzenie interfejsu do pomiaru wilgotności oraz 
 temperatury w programie LabVIEW, z wykorzystaniem płytki Arduino Uno oraz 
